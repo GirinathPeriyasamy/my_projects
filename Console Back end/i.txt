@@ -1,0 +1,168 @@
+Accelerometer X: -0.997497
+Accelerometer Y: 0.127171
+Accelerometer Z: -0.613392
+Roll: 111.147
+Pitch: 30.6034
+Yaw: -7.2457
+
+Accelerometer X: -0.299417
+Accelerometer Y: 0.791925
+Accelerometer Z: 0.64568
+Roll: 88.7777
+Pitch: -117.321
+Yaw: 129.22
+
+Accelerometer X: 0.421003
+Accelerometer Y: 0.0270699
+Accelerometer Z: -0.39201
+Roll: -174.606
+Pitch: -147.095
+Yaw: -48.7973
+
+Accelerometer X: -0.705374
+Accelerometer Y: -0.668203
+Accelerometer Z: 0.97705
+Roll: -19.5508
+Pitch: -137.13
+Yaw: -178.319
+
+Accelerometer X: -0.982177
+Accelerometer Y: -0.24424
+Accelerometer Z: 0.0633259
+Roll: 25.6264
+Pitch: 36.635
+Yaw: 38.5797
+
+Accelerometer X: -0.667531
+Accelerometer Y: 0.32609
+Accelerometer Z: -0.0984222
+Roll: -53.2359
+Pitch: -159.466
+Yaw: 38.7664
+
+Accelerometer X: 0.566637
+Accelerometer Y: 0.605213
+Accelerometer Z: 0.0397656
+Roll: -71.298
+Pitch: 135.35
+Yaw: 81.6034
+
+Accelerometer X: 0.911802
+Accelerometer Y: 0.851436
+Accelerometer Z: 0.0787072
+Roll: -128.758
+Pitch: -13.6509
+Yaw: -95.2818
+
+Accelerometer X: 0.724479
+Accelerometer Y: -0.580798
+Accelerometer Z: 0.559313
+Roll: 123.715
+Pitch: 178.846
+Yaw: 179.89
+
+Accelerometer X: 0.222999
+Accelerometer Y: -0.215125
+Accelerometer Z: -0.467574
+Roll: -72.9789
+Pitch: 122.452
+Yaw: -171.452
+
+Accelerometer X: -0.248268
+Accelerometer Y: -0.814753
+Accelerometer Z: 0.354411
+Roll: -159.763
+Pitch: -176.836
+Yaw: 150.764
+
+Accelerometer X: -0.448225
+Accelerometer Y: -0.454207
+Accelerometer Z: 0.175817
+Roll: 68.826
+Pitch: 121.54
+Yaw: 81.5375
+
+Accelerometer X: -0.0301218
+Accelerometer Y: -0.589282
+Accelerometer Z: 0.487472
+Roll: -11.3547
+Pitch: -15.1341
+Yaw: 161.696
+
+Accelerometer X: 0.488876
+Accelerometer Y: -0.783441
+Accelerometer Z: 0.198096
+Roll: -41.3153
+Pitch: 84.6028
+Yaw: 39.2279
+
+Accelerometer X: 0.14481
+Accelerometer Y: -0.277322
+Accelerometer Z: -0.69689
+Roll: -98.9624
+Pitch: -26.9448
+Yaw: 109.037
+
+Accelerometer X: 0.0342112
+Accelerometer Y: 0.97998
+Accelerometer Z: 0.503098
+Roll: -55.598
+Pitch: -119.167
+Yaw: 56.6308
+
+Accelerometer X: -0.0162053
+Accelerometer Y: -0.872921
+Accelerometer Z: 0.399518
+Roll: 1.7304
+Pitch: -126.901
+Yaw: 161.85
+
+Accelerometer X: -0.716849
+Accelerometer Y: 0.810236
+Accelerometer Z: 0.385784
+Roll: -70.9024
+Pitch: -26.4394
+Yaw: -154.665
+
+Accelerometer X: 0.933226
+Accelerometer Y: 0.366375
+Accelerometer Z: -0.693533
+Roll: 135.812
+Pitch: 115.805
+Yaw: 29.5376
+
+Accelerometer X: -0.617298
+Accelerometer Y: -0.644215
+Accelerometer Z: 0.634388
+Roll: -8.90469
+Pitch: -124.001
+Yaw: 1.41179
+
+Accelerometer X: 0.464034
+Accelerometer Y: -0.188818
+Accelerometer Z: -0.44084
+Roll: 24.7475
+Pitch: 65.6069
+Yaw: 92.1067
+
+Accelerometer X: 0.443831
+Accelerometer Y: -0.0494095
+Accelerometer Z: -0.75396
+Roll: -47.5887
+Pitch: 120.485
+Yaw: -167.365
+
+Accelerometer X: 0.0340281
+Accelerometer Y: 0.325968
+Accelerometer Z: -0.147557
+Roll: -142.316
+Pitch: 161.762
+Yaw: 151.698
+
+Accelerometer X: 0.0990936
+Accelerometer Y: -0.308023
+Accelerometer Z: -0.0565508
+Roll: -45.0069
+Pitch: 124.913
+Yaw: -65.9255
+

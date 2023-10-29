@@ -1,0 +1,136 @@
+Received Sensor Data: 
+Accelerometer X: -0.982177
+Accelerometer Y: -0.24424
+Accelerometer Z: 0.0633259
+Roll: 25.6264
+Pitch: 36.635
+Yaw: 38.5797
+
+Received Sensor Data: 
+Accelerometer X: -0.982177
+Accelerometer Y: -0.24424
+Accelerometer Z: 0.0633259
+Roll: 25.6264
+Pitch: 36.635
+Yaw: 38.5797
+
+Received Sensor Data: 
+Accelerometer X: -0.982177
+Accelerometer Y: -0.24424
+Accelerometer Z: 0.0633259
+Roll: 25.6264
+Pitch: 36.635
+Yaw: 38.5797
+
+Received Sensor Data: 
+Accelerometer X: -0.982177
+Accelerometer Y: -0.24424
+Accelerometer Z: 0.0633259
+Roll: 25.6264
+Pitch: 36.635
+Yaw: 38.5797
+
+Received Sensor Data: 
+Accelerometer X: -0.667531
+Accelerometer Y: 0.32609
+Accelerometer Z: -0.0984222
+Roll: -53.2359
+Pitch: -159.466
+Yaw: 38.7664
+
+Received Sensor Data: 
+Accelerometer X: 0.566637
+Accelerometer Y: 0.605213
+Accelerometer Z: 0.0397656
+Roll: -71.298
+Pitch: 135.35
+Yaw: 81.6034
+
+Received Sensor Data: 
+Accelerometer X: 0.566637
+Accelerometer Y: 0.605213
+Accelerometer Z: 0.0397656
+Roll: -71.298
+Pitch: 135.35
+Yaw: 81.6034
+
+Received Sensor Data: 
+Accelerometer X: 0.566637
+Accelerometer Y: 0.605213
+Accelerometer Z: 0.0397656
+Roll: -71.298
+Pitch: 135.35
+Yaw: 81.6034
+
+Received Sensor Data: 
+Accelerometer X: 0.566637
+Accelerometer Y: 0.605213
+Accelerometer Z: 0.0397656
+Roll: -71.298
+Pitch: 135.35
+Yaw: 81.6034
+
+Received Sensor Data: 
+Accelerometer X: 0.911802
+Accelerometer Y: 0.851436
+Accelerometer Z: 0.0787072
+Roll: -128.758
+Pitch: -13.6509
+Yaw: -95.2818
+
+Received Sensor Data: 
+Accelerometer X: 0.911802
+Accelerometer Y: 0.851436
+Accelerometer Z: 0.0787072
+Roll: -128.758
+Pitch: -13.6509
+Yaw: -95.2818
+
+Received Sensor Data: 
+Accelerometer X: 0.724479
+Accelerometer Y: -0.580798
+Accelerometer Z: 0.559313
+Roll: 123.715
+Pitch: 178.846
+Yaw: 179.89
+
+Received Sensor Data: 
+Accelerometer X: -0.716849
+Accelerometer Y: 0.810236
+Accelerometer Z: 0.385784
+Roll: -70.9024
+Pitch: -26.4394
+Yaw: -154.665
+
+Received Sensor Data: 
+Accelerometer X: 0.933226
+Accelerometer Y: 0.366375
+Accelerometer Z: -0.693533
+Roll: 135.812
+Pitch: 115.805
+Yaw: 29.5376
+
+Received Sensor Data: 
+Accelerometer X: -0.617298
+Accelerometer Y: -0.644215
+Accelerometer Z: 0.634388
+Roll: -8.90469
+Pitch: -124.001
+Yaw: 1.41179
+
+Received Sensor Data: 
+Accelerometer X: 0.464034
+Accelerometer Y: -0.188818
+Accelerometer Z: -0.44084
+Roll: 24.7475
+Pitch: 65.6069
+Yaw: 92.1067
+
+Received Sensor Data: 
+Accelerometer X: 0.443831
+Accelerometer Y: -0.0494095
+Accelerometer Z: -0.75396
+Roll: -47.5887
+Pitch: 120.485
+Yaw: -167.365
+
